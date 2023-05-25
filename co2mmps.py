@@ -116,7 +116,7 @@ st.header(
 
 st.markdown('<style>h2{color: red;}</style>', unsafe_allow_html=True)
 st.subheader(
-    "Product Description -  Calculates the Minimum Miscibility Pressure (psia) for Pure CO2 gas injection..")
+    "Product Description -  Calculates the Minimum Miscibility Pressure (psia) for Pure CO2 gas injection.")
 st.markdown('<style>h2{color: red;}</style>', unsafe_allow_html=True)
 st.subheader(
     "[Download Input Template File.](https://drive.google.com/file/d/1S60FPJcZbqxhCGJ3xTUMhniTqZK0jHC2/view)")
